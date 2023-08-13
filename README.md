@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to our captivating [YouTube video](#prerequisites) where we blend the genius of Sherlock Holmes with the cutting-edge world of data science. In this unique exploration, we delve into the intriguing question: What if the legendary detective were a data scientist? Join us on a thrilling journey as we uncover the power of Bayes' Theorem and witness its application in solving crimes, all through the lens of probabilities, deductions, and modern analytics.
+Welcome to our captivating [YouTube video](https://youtu.be/DOCbke2Vd80) where we blend the genius of Sherlock Holmes with the cutting-edge world of data science. In this unique exploration, we delve into the intriguing question: What if the legendary detective were a data scientist? Join us on a thrilling journey as we uncover the power of Bayes' Theorem and witness its application in solving crimes, all through the lens of probabilities, deductions, and modern analytics.
 
 ## Table of Contents
 
